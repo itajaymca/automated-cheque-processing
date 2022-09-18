@@ -8,17 +8,14 @@
 
     Verifying a customer's signatures with a predefined template,  requires three steps to follow. First, A customers  provides his details for verifying the valid Account in the bank. Second, The auto filled template will display along with a rectangle to sign the cheque, and The last step customer will click on the rectangle box to sign the cheque (Image shown). Template based processes are capable of handling all challenges that are there in the problem statement.
 
-    Step 1
-    ```
-    Customer provide his/her details to verify account in the bank
+Step 1
+Customer provide his/her details to verify account in the bank
 
-    Step 2
-    ```
-    Pre populated customer details on the cheque with click here to sign the box
+Step 2
+Pre populated customer details on the cheque with click here to sign the box
 
-    Step 3
-    ```
-    Customer will click on the box to sign the cheque
+Step 3
+Customer will click on the box to sign the cheque
 
 # Structure
 
