@@ -11,17 +11,14 @@
     Step 1
     ```
     Customer provide his/her details to verify account in the bank
-    ```
 
     Step 2
     ```
     Pre populated customer details on the cheque with click here to sign the box
-    ```
 
     Step 3
     ```
     Customer will click on the box to sign the cheque
-    ```
 
 # Structure
 
